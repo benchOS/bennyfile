@@ -1,5 +1,5 @@
 # Bennyfile (Benfile Parser For Benny)
-[![benOSShield-Official](https://img.shields.io/badge/benOS-Native-brightgreen.svg)](https://github.com/benchOS/benOS)[![benOSShield-Utils](https://img.shields.io/badge/benOS-Utils-brightgreen.svg)](https://github.com/benchOS/benOS)[![build status](http://img.shields.io/travis/benchOS/bennyfile.svg?style=flat)](http://travis-ci.org/benchOS/bennyfile)[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![benOSShield-Official](https://img.shields.io/badge/benOS-Native-brightgreen.svg)](https://github.com/benchOS/benOS)[![benOSShield-Utils](https://img.shields.io/badge/benOS-Utils-brightgreen.svg)](https://github.com/benchOS/benOS)[![benOSShield-Utils](https://img.shields.io/badge/benOS-Benny-blue.svg)](https://github.com/benchOS/benOS)[![build status](http://img.shields.io/travis/benchOS/bennyfile.svg?style=flat)](http://travis-ci.org/benchOS/bennyfile)[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 [![benOSRepoHeader](https://raw.githubusercontent.com/benchOS/benchOS-design/master/repo-headers/benos-bennyfile-header.png)](https://github.com/benchOS/bennyfile)
 <br>
 `Benfile` parsing library that converts a `Benfile` to a JSON object and then back to the original format.
