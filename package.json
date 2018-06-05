@@ -1,0 +1,24 @@
+{
+  "name": "bennyfile",
+  "version": "1.0.0",
+  "description": "The Official Library For Benny's BenFile Parsing and Execution",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^10.0.3",
+    "tape": "^4.8.0"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/benchOS/bennyfile.git"
+  },
+  "author": "Bench Open Systems",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benchOS/bennyfile/issues"
+  },
+  "homepage": "https://github.com/benchOS/bennyfile"
+}
